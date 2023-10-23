@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">appsensordetection</string>
+    <string name="titleMain">App Sensor Detections</string>
+    <string name="btnAceleracion">Validar Aceleración</string>
+    <string name="btnLuz">Validar Luminosidad</string>
+    <string name="txtMedidorAceleracion">Medidor de Aceleración</string>
+    <string name="txtMedidorLuz">Medidor de Luminosidad</string>
+    <string name="txtDefault">None</string>
+    <string name="backMain">Regresar</string>
+</resources>
